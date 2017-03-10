@@ -1,6 +1,8 @@
 {
   "private": true,
-  "devDependencies": {},
+  "devDependencies": {
+    "laravel-elixir-browserify-official": "^0.1.3"
+  },
   "dependencies": {
     "laravel-elixir": "^6.0.0-15"
   }
